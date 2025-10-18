@@ -1,14 +1,14 @@
 # SQUARE WAVE
 
 
-##AIM:
+## AIM:
 Write a 8051 c program to generate a square wave with frequency of 50khz
 
 ## APPARATUS REQUIRED
 - Personal Computer  
 - Keil µVision Software
 
-##PROGRAM:
+## PROGRAM:
 ```
 #include <reg51.h>
 
@@ -33,9 +33,9 @@ void main()
 }
 ```
 
-##OUTPUT:
+### OUTPUT:
 ![WhatsApp Image 2025-10-18 at 16 03 58_9c40ca54](https://github.com/user-attachments/assets/af08b577-f55e-494b-ade4-d4b2c175529c)
 
-##RESULT:
+### RESULT:
 Thus the 8051 C program to generate a square wave with frequency of 50khz using keil was done and shown the output.
 
